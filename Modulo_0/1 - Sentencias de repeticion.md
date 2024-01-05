@@ -43,7 +43,7 @@
 
 ### Sentencia "FOR"
 
-0. Creamos un metodo llamado "SENTENCIA_WHILE".
+0. Creamos un metodo llamado "SENTENCIA_FOR".
 
 1. Definimos una variable llamada iterador y le asignamos el valor 0. 
 
@@ -54,8 +54,8 @@
     ```
     // Solemos usar N como variable iteradora.
     // VARIABLE_TOPE: hasta donde va a recorrer.
-
-    FOR iterador TO VARIABLE_TOPE  
+    // Se puede declarar la variable en el mismo for:
+    FOR N=0 TO VARIABLE_TOPE  
         proceso()
     NEXT
     ```
