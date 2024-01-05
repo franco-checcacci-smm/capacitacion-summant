@@ -2,7 +2,7 @@
 
 ## Sentencias de repeticion.
  
-<u>**Crear un nodo nuevo llamado SENTENCIAS_REPETICION**</u>
+<u>**Crear un nodo libre nuevo llamado SENTENCIAS_REPETICION**</u>
 
 ### Sentencia "DO"
 

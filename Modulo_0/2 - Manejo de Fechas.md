@@ -2,7 +2,7 @@
 
 ## Manejo de Fechas.
  
-<u>**Crear un nodo nuevo llamado MANEJO_FECHAS**</u>
+<u>**Crear un nodo libre nuevo llamado MANEJO_FECHAS**</u>
 
 ### MANEJO DE FECHAS
 
@@ -63,7 +63,7 @@ numbersToDate(anio, mes,dia,hora,minuto,segundo)
     ```
     **OBTENCION:**
 
-    -- Para este ejercicio deberas consultar la guia de desarrollo del lenguaje LN4. La cual sera adjuntada en esta carpeta.
+    -- Para este ejercicio deberas consultar la guia de desarrollo del lenguaje LN4 el cual te servirá para el siguiente modulo. El mismo esta disponible en esta misma carpeta.
 
     //Ejercicio a    
     Obtener la cantidad de días del mes de la fecha 2
