@@ -1,12 +1,12 @@
 # Ejercicio 0 
-## Estructuras de control
+## Estructuras de control 
 
-1. Crear un Meta4Object llamado: tusIniciales_practica
+1. Crear un Meta4Object llamado: tusIniciales_PRACTICA
 
-2. Creamos un nodo llamado SENTENCIA_IF
+2. Creamos un nodo llamado CAR_SENTENCIA_IF
 -- insertar imagen
 
-3. Creamos un metodo llamado "SENTENCIA_IF" con el siguiente boton:
+3. Creamos un metodo llamado "CAR_SENTENCIA_IF" con el siguiente boton:
 -- insertar imagen
 
 4. Agregamos dos variables (LN4 es un lenguaje debilmente tipificado, esto quiere decir que no requiere declarar el tipo de variable):

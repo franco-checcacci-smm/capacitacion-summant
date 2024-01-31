@@ -2,11 +2,11 @@
 
 ## Sentencias de repeticion.
  
-<u>**Crear un nodo libre nuevo llamado SENTENCIAS_REPETICION**</u>
+<u>**Crear un nodo libre nuevo llamado CAR_SENTENCIAS_REPETICION**</u>
 
 ### Sentencia "DO"
 
-0. Creamos un metodo llamado "SENTENCIA_DO".
+0. Creamos un metodo llamado "CAR_SENTENCIA_DO".
 
 1. Definimos una variable llamada iterador y le asignamos el valor 0. 
 
@@ -26,7 +26,7 @@
 
 ### Sentencia "WHILE"
 
-0. Creamos un metodo llamado "SENTENCIA_WHILE".
+0. Creamos un metodo llamado "CAR_SENTENCIA_WHILE".
 
 1. Definimos una variable llamada iterador y le asignamos el valor 0. 
 
@@ -43,7 +43,7 @@
 
 ### Sentencia "FOR"
 
-0. Creamos un metodo llamado "SENTENCIA_FOR".
+0. Creamos un metodo llamado "CAR_SENTENCIA_FOR".
 
 1. Definimos una variable llamada iterador y le asignamos el valor 0. 
 

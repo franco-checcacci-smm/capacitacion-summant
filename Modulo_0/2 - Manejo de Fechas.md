@@ -2,7 +2,7 @@
 
 ## Manejo de Fechas.
  
-<u>**Crear un nodo libre nuevo llamado MANEJO_FECHAS**</u>
+<u>**Crear un nodo libre nuevo llamado CAR_MANEJO_FECHAS**</u>
 
 ### MANEJO DE FECHAS
 
