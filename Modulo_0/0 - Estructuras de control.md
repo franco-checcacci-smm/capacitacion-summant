@@ -3,10 +3,10 @@
 
 1. Crear un Meta4Object llamado: tusIniciales_PRACTICA
 
-2. Creamos un nodo llamado CAR_SENTENCIA_IF
+2. Creamos un nodo llamado CAR_EJECUTA_IF
 -- insertar imagen
 
-3. Creamos un metodo llamado "CAR_SENTENCIA_IF" con el siguiente boton:
+3. Creamos un metodo llamado "CAR_EJECUTA_IF" con el siguiente boton:
 -- insertar imagen
 
 4. Agregamos dos variables (LN4 es un lenguaje debilmente tipificado, esto quiere decir que no requiere declarar el tipo de variable):
@@ -23,7 +23,7 @@
         proceso()
     ENDIF
     ```
-5. bis. operadores logicos en LN4:
+#### Hint: Operadores logicos en LN4:
 
     ```
      ### Operadores logicos: ### 
@@ -36,7 +36,7 @@
 
     ### Bonus ###
 
-    ISNULLVALUE(variable) = m4_true | Si la variable es nula... 
+    ISNULL(variable) = m4_true | Si la variable es nula... 
 
     ```
 
